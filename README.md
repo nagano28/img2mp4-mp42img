@@ -1,6 +1,6 @@
 # img2mp4-mp42img
 
-##�uhttps://www.ffmpeg.org�v���玩�g�̊��ɉ������o�[�W�������_�E�����[�h�B
-##�𓀌�A�hbin�h�����ϐ��ɒǉ��B
-##�upython img2movie.py�v�ŁA���n�����A�Ԃŉ摜��(image�t�H���_)�A�摜�𓮉扻(movie�t�H���_)
-##web��œ���𖄂ߍ��ވׂɁAh264�Ή��̓���houtput_h264.mp4�h���쐬
+##　「https://www.ffmpeg.org」から自身の環境に沿ったバージョンをダウンロード。
+##　解凍後、”bin”を環境変数に追加。
+##　「python img2movie.py」で、時系列情報を連番で画像化(imageフォルダ)、画像を動画化(movieフォルダ)
+##　web上で動画を埋め込む為に、h264対応の動画”output_h264.mp4”を作成
